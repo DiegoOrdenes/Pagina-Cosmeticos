@@ -1,2 +1,2 @@
 # Pagina-Cosmeticos
-05/04: van bien chicos, falta la responsibidad
+05/04: van bien chicos
