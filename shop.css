@@ -1,0 +1,22 @@
+.producto {
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+}
+
+.producto:before {
+    content: "stock";
+    background: #f54d06;
+    padding: 10px;
+    width: 60px;
+    position: absolute;
+    top: 20px;
+    right: 10px;
+    transform: rotate(-90deg);
+    color: white;
+}
+
+.producto:hover .product__icon {
+    color: #FF4E00;
+}
